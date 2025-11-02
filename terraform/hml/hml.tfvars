@@ -3,7 +3,7 @@ environment         = "hml"
 location            = "brazilsouth"
 resource_group_name = "gh-devops-hml"
 
-# AKS Cluster Configuration
+## AKS Cluster Configuration
 aks_cluster_name   = "aks-devops-hml"
 aks_dns_prefix     = "aks-devops-hml"
 kubernetes_version = "1.31.11"
