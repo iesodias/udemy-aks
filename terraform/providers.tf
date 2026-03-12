@@ -8,7 +8,6 @@ provider "azurerm" {
       recover_soft_deleted_key_vaults = true
     }
   }
-  use_oidc = true
 }
 
 provider "kubernetes" {
